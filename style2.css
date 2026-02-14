@@ -1,5 +1,5 @@
 body {
-    background-color: #3d2591ee;
+    background-color: #f8c8dc;
     font-family: "Roboto", sans-serif;
     font-size: 16px;
     font-weight: 400;
@@ -48,7 +48,7 @@ body {
     margin-top: 10px;
   }
   .button {
-    background-color: #d7f81c;
+    background-color: #3d2591ee;
     border: none;
     color: rgb(0, 0, 0);
     padding: 10px 20px;
@@ -62,7 +62,7 @@ body {
   }
   
   .button:hover {
-    background-color: #d7f81c;
+    background-color: #3d2591ee;
     color: white;
     transition: ease-in-out 0.3s;
   }
